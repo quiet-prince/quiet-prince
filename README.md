@@ -1,14 +1,13 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=thedetectiveprince&color=863d31&style=flat&label=୧　clients　&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=thedetectiveprince&color=f8e5cb&style=flat&label=୧　clients　&abbreviated=true)
 <p align="center">
 </p>
 
 <p align=center>
-<img width="300" height="380" alt="Image" src=https://files.catbox.moe/1vc2ur.png
+<img width="300" height="300" alt="Image" src=https://files.catbox.moe/brckv0.png
 >
 </p>
-art　by:　jukgidoraon on twt
 
 <p align="center">
 　<a href="https://rentry.co/yourosamu">rentry</a>　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
