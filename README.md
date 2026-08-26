@@ -1,11 +1,13 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=thedetectiveprince&color=d6c6d5&style=flat&label=୧　clients　&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=thedetectiveprince&color=307384&style=flat&label=୧　souls　&abbreviated=true)
 <p align="center">
 </p>
 
+**art** cred:　 Onyu_pu　on　twt
+
 <p align=center>
-<img width="490" height="300" alt="Image" src=https://64.media.tumblr.com/d3ad2178627ee4c9f757df3df8f3af3f/a2055b520a49d3bc-88/s2048x3072/801646debd1fbbe535a4f6b308ed953458419dd9.pnj
+<img width="560" height="300" alt="Image" src=https://i.pinimg.com/1200x/c8/b8/84/c8b8849c7cf0734f5de1a6b95a44d0c6.jpg
 >
 </p>
 
