@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-　<a href="https://sorrowfulclues.straw.page/">straw</a>　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
+　wip　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
 <p align="center">
 
 <div align="center">
