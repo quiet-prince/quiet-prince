@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=thedetectiveprince&color=d92323&style=flat&label=୧　hearts　&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=thedetectiveprince&color=E6E6E6&style=flat&label=୧　hearts　&abbreviated=true)
 <p align="center">
 </p>
 
