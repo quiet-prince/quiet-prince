@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-　<a href="https://winterbomb.straw.page/">straw</a>　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
+　<a href="">straw wip</a>　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
 <p align="center">
 
 <div align="center">
