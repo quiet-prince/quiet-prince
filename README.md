@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-　straw wip　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
+　<a href="https://soldadoinvernal.straw.page/">straw</a>　　╱　　ׅ<a href="https://vesselsyndrome.atabook.org/">ata</a>　　𓐩
 <p align="center">
 
 <div align="center">
